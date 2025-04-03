@@ -35,7 +35,7 @@ Designed for seamless integration, EmailAgent understands natural language comma
 ![freight_confirmation.gif](https://github.com/AntonioPavoni/CTRM-AI_EmailAgentModule/blob/main/freight_confirmation.gif)
 
 
-`[Animated GIF showing an email with a PDF freight confirmation arriving, the user asking "Process the freight confirmation in the last email", and the agent extracting key details like Vessel, Commodity, Load Port, Rate, etc. Add a text overlay/note: "Extracted data ready for CTRM upload."]`
+`[Animated GIF showing an email with a PDF freight confirmation arriving, the user asking "Process the freight confirmation in the last email", and the agent extracting key details like Vessel, Commodity, Load Port, Rate, etc. The agent is later extracting data and preparing a CTRM Upload: "Extracted data ready for CTRM upload."]`
 
 **2. Interactive Email Search & Query:**
 
