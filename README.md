@@ -1,4 +1,4 @@
-# EmailAgent: Intelligent Email Module for CTRM AI Suite
+# EmailAgent: AI agent Email Module for CTRM AI Suite
 
 **EmailAgent is the dedicated intelligent email processing module for the CTRM AI Suite. It leverages advanced AI models and document processing capabilities to manage Gmail interactions, automate the extraction of critical trade data (like freight and business confirmations) from emails and attachments, and function as a standalone conversational email assistant.**
 
