@@ -46,7 +46,7 @@ email_assistant.gif
 
 **3. Standalone Email Assistant Task:**
 
-![image](https://github.com/user-attachments/assets/58c5ddae-7c3a-4aa6-9014-a58caa38d1cc)
+![email_assistant.gif](https://github.com/AntonioPavoni/CTRM-AI_EmailAgentModule/blob/main/email_assistant.gif)
 
 `[Animated GIF showing the user asking "Send a follow-up email to trader@example.com asking for the ETA on vessel Luna Bianca" and the agent composing and sending the email.]`
 
