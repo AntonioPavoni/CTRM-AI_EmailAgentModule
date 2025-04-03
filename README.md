@@ -50,7 +50,7 @@ Designed for seamless integration, EmailAgent understands natural language comma
 
 `[Animated GIF showing the user asking "Send a follow-up email to trader@example.com asking for the ETA on vessel Luna Bianca" and the agent composing and sending the email.]`
 
-*(Optional: Link to a longer video walkthrough)*
+
 
 ## Technology Stack
 
